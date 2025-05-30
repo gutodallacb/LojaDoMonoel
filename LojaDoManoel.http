@@ -1,0 +1,6 @@
+@LojaDoManoel_HostAddress = http://localhost:5297
+
+GET {{LojaDoManoel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
